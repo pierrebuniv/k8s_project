@@ -1,0 +1,4 @@
+resources:
+- php-deployement.yaml
+- mysql-deployment.yaml
+- mysql-pv.yaml

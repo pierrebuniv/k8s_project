@@ -1,0 +1,160 @@
+body
+{
+	margin-left : 5%;
+	margin-right : 5%;
+	background-color : #C0C0C0;
+		 
+}
+
+header h1
+{   color: #FF8C00; 
+	font-family: 'Lato', sans-serif;
+	font-size: 54px; 
+	font-weight: 300; 
+	line-height: 58px; 
+	margin: 0 0 58px; 
+	float: left;
+
+	
+}
+header
+{
+
+	padding-bottom:100px;
+	color:white;
+
+	
+}
+
+
+#connexion { 
+
+
+  
+  float: right;
+  
+}
+
+
+
+aside, article
+{
+    text-align: justify;
+	margin-right: 20px;
+	padding-top:20%;
+	
+}
+aside
+{
+    position: relative;
+    width: 235px;
+    background-color: #FF8C00;
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius:10px;
+    padding: 10px;
+    color: white;
+    font-size: 15px;
+	float: right;
+	margin-top:10px;
+	
+}
+
+a:link, a:visited {
+    background-color: #FF8C00;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	border-radius:10px;
+}
+
+a:hover, a:active {
+    background-color: #FF8C00;
+}
+
+
+#article
+{
+	border:2px solid #000000;
+	border-radius: 2px;
+	padding : 0px;
+	padding-right: 5px;
+	/* padding-right:; */
+	/* margin-bottom:auto; */
+	margin-right:0px;
+	margin-top:10px;
+	background-color: #FFFFFF;
+	font-family: Arial, sans-serif;
+	font-weight: 400;
+}
+#commentaire
+{
+	margin-left: 60px;
+
+}
+
+ul {
+    position: absolute;
+    top: 15%;
+	left:8%;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	font-size:2em;
+    
+}
+
+li {
+    float: left;
+	margin-right:3px;
+}
+
+
+input[type=submit]{
+    background-color: #FF8C00;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	margin-left:80%;
+}
+#title{	margin-top:-10px;
+	font-family: Arial, sans-serif;
+	font-size:30px;
+}
+
+#toto{
+	   width: auto;
+    height: 70px;
+    background: #003333 url(Images/bandeau.png) no-repeat; 
+    margin: 0;
+    font-family: verdana, helvetica, arial, sans-serif;
+    padding: 0 10px 0 70px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #EEEEEE;
+    text-align: right;
+
+	
+	
+}
+
+#liste{
+	position : absolute;
+	top : 35%;
+	left : 5%;
+}
+td{
+	width : 10%;
+	text-align : center;
+}
+.ajout{
+	position : absolute;
+	top : 25%;
+	left : 20%;
+}
