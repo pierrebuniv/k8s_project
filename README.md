@@ -1,4 +1,4 @@
-# k8s_project
+# k8s_project de Idelon Téo et Bouvier Pierre
 
 Deploiement application :
 
@@ -12,3 +12,5 @@ Pour initialiser la base de données il faut avoir le fichier commentaire.mysql 
 Pour lancer l'application web on peut utiliser la commande :
 
 ```minikube service webserver```
+
+
